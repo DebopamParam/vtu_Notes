@@ -1,4 +1,4 @@
-# notes
+# vtu_notes
 
 A new Flutter project.
 
